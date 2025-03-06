@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/jsdelivr/globalping-cli/globalping"
+	"github.com/datvo2k/globalping-cli/globalping"
 	"github.com/stretchr/testify/assert"
 )
 

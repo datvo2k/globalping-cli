@@ -4,7 +4,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/jsdelivr/globalping-cli/globalping"
+	"github.com/datvo2k/globalping-cli/globalping"
 )
 
 // Outputs non-json non-latency results for a measurement

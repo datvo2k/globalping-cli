@@ -3,7 +3,7 @@ package storage
 import (
 	"testing"
 
-	"github.com/jsdelivr/globalping-cli/utils"
+	"github.com/datvo2k/globalping-cli/utils"
 )
 
 func createDefaultTestStorage(t *testing.T, utils utils.Utils) *LocalStorage {

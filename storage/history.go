@@ -11,8 +11,8 @@ import (
 	"strings"
 	"time"
 
+	"github.com/datvo2k/globalping-cli/view"
 	"github.com/icza/backscanner"
-	"github.com/jsdelivr/globalping-cli/view"
 )
 
 var (

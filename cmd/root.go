@@ -10,11 +10,11 @@ import (
 	"github.com/spf13/pflag"
 	"golang.org/x/term"
 
-	"github.com/jsdelivr/globalping-cli/globalping"
-	"github.com/jsdelivr/globalping-cli/globalping/probe"
-	"github.com/jsdelivr/globalping-cli/storage"
-	"github.com/jsdelivr/globalping-cli/utils"
-	"github.com/jsdelivr/globalping-cli/view"
+	"github.com/datvo2k/globalping-cli/globalping"
+	"github.com/datvo2k/globalping-cli/globalping/probe"
+	"github.com/datvo2k/globalping-cli/storage"
+	"github.com/datvo2k/globalping-cli/utils"
+	"github.com/datvo2k/globalping-cli/view"
 	"github.com/spf13/cobra"
 )
 

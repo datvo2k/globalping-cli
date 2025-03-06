@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/jsdelivr/globalping-cli/version"
+	"github.com/datvo2k/globalping-cli/version"
 	"github.com/spf13/cobra"
 )
 

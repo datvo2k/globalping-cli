@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/jsdelivr/globalping-cli/utils"
+	"github.com/datvo2k/globalping-cli/utils"
 	"github.com/shirou/gopsutil/process"
 )
 

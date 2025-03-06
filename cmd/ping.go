@@ -5,8 +5,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/jsdelivr/globalping-cli/globalping"
-	"github.com/jsdelivr/globalping-cli/view"
+	"github.com/datvo2k/globalping-cli/globalping"
+	"github.com/datvo2k/globalping-cli/view"
 	"github.com/spf13/cobra"
 	"github.com/spf13/pflag"
 )

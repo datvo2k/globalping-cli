@@ -1,4 +1,4 @@
-module github.com/jsdelivr/globalping-cli
+module github.com/datvo2k/globalping-cli
 
 go 1.23
 

@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/jsdelivr/globalping-cli/globalping"
+	"github.com/datvo2k/globalping-cli/globalping"
 	"github.com/mattn/go-runewidth"
 )
 

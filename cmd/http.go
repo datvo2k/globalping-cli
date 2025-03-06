@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/jsdelivr/globalping-cli/globalping"
-	"github.com/jsdelivr/globalping-cli/view"
+	"github.com/datvo2k/globalping-cli/globalping"
+	"github.com/datvo2k/globalping-cli/view"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
 	"github.com/spf13/pflag"
@@ -25,7 +25,7 @@ Note that GET responses are limited to 10KB, with anything beyond this cut by th
 
 The CLI tool supports two formats:
 1. Full URL: The tool automatically parses the scheme, host, port, domain, path, and query. For example:
-	http https://www.jsdelivr.com:443/package/npm/test?nav=stats
+	http https://www.datvo2k.com:443/package/npm/test?nav=stats
 2. Separate flags: Specify the scheme, host, port, domain, path, and query as separate command line flags, useful for scripting. For example:
 	http jsdelivr.com --host www.jsdelivr.com --protocol https --port 443 --path "/package/npm/test" --query "nav=stats"
 

@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/jsdelivr/globalping-cli/cmd"
-	pkgversion "github.com/jsdelivr/globalping-cli/version"
+	"github.com/datvo2k/globalping-cli/cmd"
+	pkgversion "github.com/datvo2k/globalping-cli/version"
 )
 
 var (

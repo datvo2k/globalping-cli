@@ -9,7 +9,7 @@ import (
 	"strconv"
 
 	"github.com/andybalholm/brotli"
-	"github.com/jsdelivr/globalping-cli/utils"
+	"github.com/datvo2k/globalping-cli/utils"
 )
 
 var (

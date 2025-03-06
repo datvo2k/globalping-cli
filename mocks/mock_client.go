@@ -12,7 +12,7 @@ package mocks
 import (
 	reflect "reflect"
 
-	globalping "github.com/jsdelivr/globalping-cli/globalping"
+	globalping "github.com/datvo2k/globalping-cli/globalping"
 	gomock "go.uber.org/mock/gomock"
 )
 

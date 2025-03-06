@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/jsdelivr/globalping-cli/globalping"
+	"github.com/datvo2k/globalping-cli/globalping"
 )
 
 // Outputs the latency stats for a measurement

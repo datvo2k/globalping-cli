@@ -5,7 +5,7 @@ import (
 	"math"
 	"syscall"
 
-	"github.com/jsdelivr/globalping-cli/globalping"
+	"github.com/datvo2k/globalping-cli/globalping"
 	"github.com/spf13/cobra"
 )
 

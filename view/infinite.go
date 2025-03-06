@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/jsdelivr/globalping-cli/globalping"
-	"github.com/jsdelivr/globalping-cli/utils"
+	"github.com/datvo2k/globalping-cli/globalping"
+	"github.com/datvo2k/globalping-cli/utils"
 	"github.com/mattn/go-runewidth"
 )
 

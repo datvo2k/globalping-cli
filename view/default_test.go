@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/jsdelivr/globalping-cli/globalping"
-	"github.com/jsdelivr/globalping-cli/mocks"
+	"github.com/datvo2k/globalping-cli/globalping"
+	"github.com/datvo2k/globalping-cli/mocks"
 	"github.com/stretchr/testify/assert"
 	"go.uber.org/mock/gomock"
 )

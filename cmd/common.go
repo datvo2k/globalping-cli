@@ -10,10 +10,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/jsdelivr/globalping-cli/globalping"
-	"github.com/jsdelivr/globalping-cli/storage"
-	"github.com/jsdelivr/globalping-cli/version"
-	"github.com/jsdelivr/globalping-cli/view"
+	"github.com/datvo2k/globalping-cli/globalping"
+	"github.com/datvo2k/globalping-cli/storage"
+	"github.com/datvo2k/globalping-cli/version"
+	"github.com/datvo2k/globalping-cli/view"
 	"github.com/spf13/cobra"
 )
 
@@ -226,5 +226,5 @@ func silenceUsageOnCreateMeasurementError(err error) bool {
 }
 
 func getUserAgent() string {
-	return fmt.Sprintf("globalping-cli/v%s (https://github.com/jsdelivr/globalping-cli)", version.Version)
+	return fmt.Sprintf("globalping-cli/v%s (https://github.com/datvo2k/globalping-cli)", version.Version)
 }

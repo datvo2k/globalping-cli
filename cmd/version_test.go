@@ -6,8 +6,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/jsdelivr/globalping-cli/version"
-	"github.com/jsdelivr/globalping-cli/view"
+	"github.com/datvo2k/globalping-cli/version"
+	"github.com/datvo2k/globalping-cli/view"
 	"github.com/stretchr/testify/assert"
 )
 

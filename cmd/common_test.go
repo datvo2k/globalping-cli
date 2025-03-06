@@ -4,8 +4,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/jsdelivr/globalping-cli/version"
-	"github.com/jsdelivr/globalping-cli/view"
+	"github.com/datvo2k/globalping-cli/version"
+	"github.com/datvo2k/globalping-cli/view"
 	"github.com/spf13/cobra"
 	"github.com/stretchr/testify/assert"
 )
@@ -226,5 +226,5 @@ func Test_FindAndRemoveResolver_ResolverOnly(t *testing.T) {
 
 func TestUserAgent(t *testing.T) {
 	version.Version = "x.y.z"
-	assert.Equal(t, "globalping-cli/vx.y.z (https://github.com/jsdelivr/globalping-cli)", getUserAgent())
+	assert.Equal(t, "globalping-cli/vx.y.z (https://github.com/datvo2k/globalping-cli)", getUserAgent())
 }

@@ -5,10 +5,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/jsdelivr/globalping-cli/globalping"
-	"github.com/jsdelivr/globalping-cli/storage"
-	"github.com/jsdelivr/globalping-cli/utils"
-	"github.com/jsdelivr/globalping-cli/view"
+	"github.com/datvo2k/globalping-cli/globalping"
+	"github.com/datvo2k/globalping-cli/storage"
+	"github.com/datvo2k/globalping-cli/utils"
+	"github.com/datvo2k/globalping-cli/view"
 )
 
 var (

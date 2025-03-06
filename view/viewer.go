@@ -1,8 +1,8 @@
 package view
 
 import (
-	"github.com/jsdelivr/globalping-cli/globalping"
-	"github.com/jsdelivr/globalping-cli/utils"
+	"github.com/datvo2k/globalping-cli/globalping"
+	"github.com/datvo2k/globalping-cli/utils"
 )
 
 type Viewer interface {
